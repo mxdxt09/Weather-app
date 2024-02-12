@@ -1,3 +1,9 @@
+# How it Looks:
+
+![weather-app](https://github.com/mxdxt09/Weather-app/assets/83859258/201b6121-804d-4f34-b309-4267b43b567a)
+
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
