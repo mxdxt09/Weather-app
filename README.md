@@ -2,6 +2,10 @@
 
 ![weather-app](https://github.com/mxdxt09/Weather-app/assets/83859258/201b6121-804d-4f34-b309-4267b43b567a)
 
+* Get your own API key - [https://openweathermap.org/](https://openweathermap.org/)
+  
+  Copy & Paste it in variable api_key.
+
 ***
 
 # Getting Started with Create React App
